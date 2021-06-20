@@ -3,18 +3,20 @@
 
 <head>
 
-<title>HTML Framework</title>
-
+<title>Damon Brooks Jr. Resume</title>
+Styles for my resume!
 <link rel="stylesheet" type="text/css" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
 
 </head>
 
 <body>
-
+Name in middle of resume!
 <h1 id="headline">Damon Brooks Jr.</h1>
 <strong>Student at the University of Maryland</strong>
-<img src="dbrooks.jpeg"
+<!--img src="dbrooks.jpeg" width="300px">-->
 
 
 <ul>
@@ -23,23 +25,23 @@
 <li><a href="https://twitter.com/DamonBrooksJr">Twitter</a></li>
 <li><a href="https://github.com/dbrook5">GitHub</a></li>
 </ul>
-
+My working history!
 <h2>Experience</h2>
-
+Job title!
 <h3>Outdoor Game Associate</h3>
-
-Goucher College
-
-November 2011- March 2012
+Where I worked!
+<h4>Goucher College</h4>
+Tenure at the job!
+<h5>November 2011- March 2012</h5>
 
 <p>At Goucher College, I was responsible for setting up sports equipment for track meets and field hockey games. In addition, I participated in disassembling used equipment at the conclusion of the sporting events.</p>
-
+Education history!
 <h2>Education</h2>
 
 •	University of Maryland, Majoring in Journalism, 2020-
 •	A.A., English, Montgomery College, 2019
 •	Goucher College, 2011-2012
-
+Some of my skills!
 <h2>Skills</h2>
 
 •	Problem solving under a deadline
