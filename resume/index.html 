@@ -2,7 +2,6 @@
 <html>
 
 <head>
-
 <title>Damon Brooks Jr. Resume</title>
 <link rel="stylesheet" type="text/css" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,8 +11,10 @@
 </head>
 
 <body>
+<div id="container">
+
 <h1 id="headline">Damon Brooks Jr.</h1>
-<strong>Student at the University of Maryland</strong>
+<div id="title">Student at the University of Maryland</div>
 <!--img src="dbrooks.jpeg" width="300px">-->
 
 
@@ -32,17 +33,17 @@
 <div class="date">November 2011- March 2012</h5>
 
 <p class="description">At Goucher College, I was responsible for setting up sports equipment for track meets and field hockey games. In addition, I participated in disassembling used equipment at the conclusion of the sporting events.</p>
-<h2>Education</h2>
+<h2 id="degrees">Education</h2>
 
 <li>University of Maryland, Majoring in Journalism, 2020-</li>
 <li>A.A., English, Montgomery College, 2019</li>
 <li>Goucher College, 2011-2012</li>
-<h2>Skills</h2>
+<h2 id="do">Skills</h2>
 
 <li>Problem solving under a deadline</li>
 <li>	Work cohesively with others to achieve a common goal</li>
 <li>Video editing with PremierePro</li>
-
+<div id="container"></div>
 
 
 
