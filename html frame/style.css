@@ -21,8 +21,9 @@ p{
   text-transform: uppercase;
   font-weight: 700;
 }
-.footer {
+footer {
   text-align:center;
+  width: 100%;
   padding: 3px;
   background-color: black;
   color: white;
