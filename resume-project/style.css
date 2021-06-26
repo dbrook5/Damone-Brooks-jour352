@@ -1,0 +1,50 @@
+#headline{
+  color: red;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+}
+#byline{
+  color: black;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+font-weight: 500;
+}
+.chapterheadline{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+footer{
+  text-align:center;
+  width: 100%;
+  padding: 3px;
+  background-color: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.sectionheader {
+  font-size:1.5em;
+  text-transform:uppercase;
+  background-color:#33485e;
+  color:#ffffff;
+  font-weight:400;
+  margin:10px;
+  margin-top:20px;
+  width:70%;
+  min-width:300px;
+}
+#education{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+#Experiences{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+.date{
+  font-weight:400;
+  font-size:1em;
+}
