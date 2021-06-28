@@ -47,4 +47,15 @@ footer{
 .date{
   font-weight:400;
   font-size:1em;
+  font-family: 'Montserrat', sans-serif;
+}
+#description{
+  font-weight:500;
+  font-size:1em;
+  font-family: 'Montserrat', sans-serif;
+}
+#skills{
+  font-weight:700;
+  font-size:1em;
+  font-family: 'Montserrat', sans-serif;
 }
