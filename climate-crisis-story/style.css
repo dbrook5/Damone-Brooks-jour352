@@ -35,3 +35,61 @@ footer {
   font-weight: 500;
 
 }
+.quote{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 650;
+  text-align: center;
+}
+.author{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+  font-weight: 200;
+  text-align: center;
+}
+.code{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 300;
+  text-align: left;
+}
+.security{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 300;
+  text-align: left;
+}
+.cooling{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 650;
+  text-align: center;
+}
+.class{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 300;
+  text-align: left;
+  text-transform: uppercase;
+}
+.baltimore{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+  font-weight: 600;
+  text-align: left;
+}
+.end{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+  font-weight: 400;
+  text-align: left;
+  font-style: italic;
+}
