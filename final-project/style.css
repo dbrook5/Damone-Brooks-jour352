@@ -1,0 +1,95 @@
+#headline{
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+#byline{
+  font-size: 1em;
+  font-size: 1em;
+  text-transform: uppercase;
+  text-align: center;
+}
+p{
+  font-family: Georgia,serif;
+  line-height: 180%;
+  font-size: 1em;
+}
+.chapterheadline{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+footer {
+  text-align:center;
+  width: 100%;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+.urban{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 500;
+
+}
+.quote{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 650;
+  text-align: center;
+}
+.author{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+  font-weight: 200;
+  text-align: center;
+}
+.code{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 300;
+  text-align: left;
+}
+.security{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 300;
+  text-align: left;
+}
+.cooling{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 650;
+  text-align: center;
+}
+.class{
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  color:red;
+  font-weight: 300;
+  text-align: left;
+  text-transform: uppercase;
+}
+.baltimore{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+  font-weight: 600;
+  text-align: left;
+}
+.end{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+  font-weight: 400;
+  text-align: left;
+  font-style: italic;
+}
